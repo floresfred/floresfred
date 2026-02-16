@@ -1,22 +1,30 @@
 <h1 align="center">Hi 👋, I'm Fred Flores</h1>
 <h3 align="center">A life-time learner of all things mathematics, statistics, and computer science</h3>
 
-- 📫 How to reach me **fredflorescfa@gmail.com**
+<h3 align="center">📫 Reach me at fredflorescfa@gmail.com</h3>
 
-🔭 Currently building a research platform for Bitcoin blockchain...
-🛠️ Recently engineered a clickstream data pipeline in Rust...
-🗾 Generating revenue for Japanese stock trading signals I developed for institutional investors...
-👯 Looking for collaborators on signal processing projects especially if the data is noisy...
-🌱 Learning about wavelet transformations...
-💬 Ask me about my dog 🐶...
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/fredflorescfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fredflorescfa" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center">🔭 Currently building a research platform for Bitcoin blockchain...</p>
+
+<p align="center">🛠️ Recently engineered an efficient clickstream data pipeline in Rust...</p>
+
+<p align="center">🗾 Generating revenue for Japanese stock trading signals in production for institutional investors...</p>
+
+<p align="center">⭐ Developed a star battle game builder and thought I had discovered a new integer sequence; alas, someone else discovered it first 😢</p>
+
+<p align="center">👯 Looking for collaborators on signal processing projects especially if the data is noisy...</p>
+
+<p align="center">🌱 Learning about wavelet transformations...</p>
+
+<p align="center">💬 Ask me about my dog 🐶...</p>
+
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
