@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fred Flores</h1>
-<h3 align="center">A life-time learner of all things mathematics, statistics, and computer science</h3>
+<h3 align="center">A life-long learner of all things mathematics, statistics, and computer science</h3>
 
 <h3 align="center">📫 Reach me at fredflorescfa@gmail.com</h3>
 
