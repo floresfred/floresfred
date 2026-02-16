@@ -14,7 +14,7 @@
 
 <p align="center">🗾 Generating revenue for Japanese stock trading signals in production for institutional investors...</p>
 
-<p align="center">⭐ Developed a star battle game builder and thought I had discovered a new integer sequence; alas, someone else discovered it first 😢</p>
+<p align="center">⭐ Discovered a new integer sequence while developing a star battle game builder; turns out, it was only new to me! 😢</p>
 
 <p align="center">👯 Looking for collaborators on signal processing projects especially if the data is noisy...</p>
 
