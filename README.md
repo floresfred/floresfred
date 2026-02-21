@@ -12,7 +12,7 @@
 
 <p align="center">🛠️ Recently engineered an efficient clickstream data pipeline in Rust...</p>
 
-<p align="center">🗾 Generating revenue for Japanese stock trading signals in production for institutional investors...</p>
+<p align="center">🗾 Generating revenue from Japanese stock trading analytics I developed for institutional investors...</p>
 
 <p align="center">⭐ Discovered a new integer sequence while developing a star battle game builder; turns out, it was only new to me! 😢</p>
 
