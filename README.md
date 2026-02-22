@@ -18,7 +18,7 @@
 
 <p align="center">👯 Applying wavelet transformation to noisy time-series data...</p>
 
-<p align="center">💬 Ask me about my dog 🐶...</p>
+<p align="center">💬 Spending quality time with my dog 🐶...</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
