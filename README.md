@@ -8,20 +8,17 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/fredflorescfa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fredflorescfa" height="30" width="40" /></a>
 </p>
 
-<p align="center">🔭 Currently building a research platform for Bitcoin blockchain...</p>
+<p align="center">🔭 Building a research platform for Bitcoin blockchain...</p>
 
-<p align="center">🛠️ Recently engineered an efficient clickstream data pipeline in Rust...</p>
+<p align="center">🛠️ Engineered an efficient clickstream data pipeline in Rust...</p>
 
 <p align="center">🗾 Generating revenue from Japanese stock trading analytics for institutional investors...</p>
 
 <p align="center">⭐ Discovered a new integer sequence while developing a star battle game builder; turns out, it was only new to me! 😢</p>
 
-<p align="center">👯 Looking for collaborators on signal processing projects especially if the data is noisy...</p>
-
-<p align="center">🌱 Learning about wavelet transformations...</p>
+<p align="center">👯 Applying wavelet transformation to noisy time-series data...</p>
 
 <p align="center">💬 Ask me about my dog 🐶...</p>
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
